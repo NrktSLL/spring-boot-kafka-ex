@@ -27,7 +27,7 @@ docker-compose up -d
 
 
 ## Kafdrop
-> **You can view details about kafkadrop** [here](https://github.com/obsidiandynamics/kafdrop)
+> **You can view details about Kafdrop** [here](https://github.com/obsidiandynamics/kafdrop)
 
-> **Access for kafdrop : http://localhost:9000/**
+> **Access for Kafdrop : http://localhost:9000/**
 <img src="https://github.com/NrktSLL/spring-boot-kafka-ex/blob/master/images/Kafdrop.png" alt="# Spring Boot Kafka Example " width="70%" height="70%"/> 
